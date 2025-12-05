@@ -1,0 +1,1 @@
+D:\UnityStuff\ProtectLab\MainProject\HospitalSystem\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\3d6q2w2n\obj\arm64-v8a

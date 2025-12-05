@@ -1,0 +1,23 @@
+# ninja log v5
+25	8446	7773322988954977	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	cec1200aec846285
+137	1414	7773322918233720	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	2d145c77d98492d8
+1415	3004	7773322932882810	D:/UnityStuff/ProtectLab/MainProject/HospitalSystem/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3d6q2w2n/obj/arm64-v8a/libswappywrapper.so	5af2843dd22658f2
+35	7270	7773322976948813	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	dc9e19edeca486c5
+125	8388	7773322988365018	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	3339ae2d858da786
+45	7125	7773322975488692	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	bf1cf8eb762e2e10
+81	7174	7773322975648674	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	8e0b1fcc67923191
+8446	8683	7773322991343900	D:/UnityStuff/ProtectLab/MainProject/HospitalSystem/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3d6q2w2n/obj/arm64-v8a/libgame.so	5966289fb5d50bfa
+56	7565	7773322980013362	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	b39baca38189412c
+94	7311	7773322977328833	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	213f0954c355384f
+69	8187	7773322986275329	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	86184deda984fcfc
+141	1699	7775102476506810	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	2d145c77d98492d8
+1700	3752	7775102494786785	D:/UnityStuff/ProtectLab/MainProject/HospitalSystem/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3d6q2w2n/obj/arm64-v8a/libswappywrapper.so	5af2843dd22658f2
+108	6275	7775102522193926	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	8e0b1fcc67923191
+65	6308	7775102522503963	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	bf1cf8eb762e2e10
+27	6461	7775102524254100	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	dc9e19edeca486c5
+78	6639	7775102526044547	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	213f0954c355384f
+52	6677	7775102526384573	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	b39baca38189412c
+122	7336	7775102533135461	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	3339ae2d858da786
+92	7464	7775102534427252	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	86184deda984fcfc
+38	7739	7775102536795662	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	cec1200aec846285
+7739	8192	7775102540972929	D:/UnityStuff/ProtectLab/MainProject/HospitalSystem/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3d6q2w2n/obj/arm64-v8a/libgame.so	5966289fb5d50bfa

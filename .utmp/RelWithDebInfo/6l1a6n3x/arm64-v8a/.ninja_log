@@ -1,0 +1,12 @@
+# ninja log v5
+29	23120	7835803647787428	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	e397632148ca8b3b
+103	23176	7835803649986579	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	d2bd257d3536efe7
+86	23190	7835803647782303	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	e52275b13061af56
+46	23203	7835803650213997	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	33168d846692f302
+76	23211	7835803647782303	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	ac237ee12bce4034
+2	23217	7835803647787428	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	d6571ac000ecd9f8
+23190	24048	7835803660045233	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	7c4d23e5c0b04bb1
+23164	26058	7835803680101560	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	77389e8f94f91c2d
+24048	26192	7835803680005275	E:/HospitalSystem/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6l1a6n3x/obj/arm64-v8a/libswappywrapper.so	3fcd4be9c09deb35
+23176	26882	7835803688328479	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7a1e260cb0e8750c
+26883	27097	7835803690562726	E:/HospitalSystem/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6l1a6n3x/obj/arm64-v8a/libgame.so	2e6583937c0b3a0f

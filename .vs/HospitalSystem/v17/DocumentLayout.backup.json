@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityStuff\\ProtectLab\\MainProject\\HospitalSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12D2D8D8-D43B-C949-B77B-682AD6C65394}|Assembly-CSharp.csproj|D:\\UnityStuff\\ProtectLab\\MainProject\\HospitalSystem\\assets\\prefabs\\procedures\\scripts\\stitchsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D2D8D8-D43B-C949-B77B-682AD6C65394}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\procedures\\scripts\\stitchsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D2D8D8-D43B-C949-B77B-682AD6C65394}|Assembly-CSharp.csproj|D:\\UnityStuff\\ProtectLab\\MainProject\\HospitalSystem\\assets\\prefabs\\procedures\\scripts\\vrstitchtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D2D8D8-D43B-C949-B77B-682AD6C65394}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\procedures\\scripts\\vrstitchtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D2D8D8-D43B-C949-B77B-682AD6C65394}|Assembly-CSharp.csproj|D:\\UnityStuff\\ProtectLab\\MainProject\\HospitalSystem\\assets\\prefabs\\procedures\\scripts\\threadrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D2D8D8-D43B-C949-B77B-682AD6C65394}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\procedures\\scripts\\threadrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D2D8D8-D43B-C949-B77B-682AD6C65394}|Assembly-CSharp.csproj|D:\\UnityStuff\\ProtectLab\\MainProject\\HospitalSystem\\assets\\prefabs\\procedures\\scripts\\stitchnotificationui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D2D8D8-D43B-C949-B77B-682AD6C65394}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\procedures\\scripts\\stitchnotificationui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D2D8D8-D43B-C949-B77B-682AD6C65394}|Assembly-CSharp.csproj|D:\\UnityStuff\\ProtectLab\\MainProject\\HospitalSystem\\assets\\prefabs\\procedures\\scripts\\stitchingscenesetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D2D8D8-D43B-C949-B77B-682AD6C65394}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\procedures\\scripts\\stitchingscenesetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D2D8D8-D43B-C949-B77B-682AD6C65394}|Assembly-CSharp.csproj|D:\\UnityStuff\\ProtectLab\\MainProject\\HospitalSystem\\assets\\prefabs\\procedures\\scripts\\stitchdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D2D8D8-D43B-C949-B77B-682AD6C65394}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\procedures\\scripts\\stitchdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D2D8D8-D43B-C949-B77B-682AD6C65394}|Assembly-CSharp.csproj|D:\\UnityStuff\\ProtectLab\\MainProject\\HospitalSystem\\assets\\prefabs\\procedures\\scripts\\stitchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D2D8D8-D43B-C949-B77B-682AD6C65394}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\procedures\\scripts\\stitchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12D2D8D8-D43B-C949-B77B-682AD6C65394}|Assembly-CSharp.csproj|d:\\unitystuff\\protectlab\\mainproject\\hospitalsystem\\assets\\prefabs\\procedures\\scripts\\stitchvideomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12D2D8D8-D43B-C949-B77B-682AD6C65394}|Assembly-CSharp.csproj|solutionrelative:assets\\prefabs\\procedures\\scripts\\stitchvideomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VRStitchTool.cs",
+              "DocumentMoniker": "D:\\UnityStuff\\ProtectLab\\MainProject\\HospitalSystem\\Assets\\Prefabs\\Procedures\\Scripts\\VRStitchTool.cs",
+              "RelativeDocumentMoniker": "Assets\\Prefabs\\Procedures\\Scripts\\VRStitchTool.cs",
+              "ToolTip": "D:\\UnityStuff\\ProtectLab\\MainProject\\HospitalSystem\\Assets\\Prefabs\\Procedures\\Scripts\\VRStitchTool.cs",
+              "RelativeToolTip": "Assets\\Prefabs\\Procedures\\Scripts\\VRStitchTool.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAowIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T18:42:56.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThreadRenderer.cs",
+              "DocumentMoniker": "D:\\UnityStuff\\ProtectLab\\MainProject\\HospitalSystem\\Assets\\Prefabs\\Procedures\\Scripts\\ThreadRenderer.cs",
+              "RelativeDocumentMoniker": "Assets\\Prefabs\\Procedures\\Scripts\\ThreadRenderer.cs",
+              "ToolTip": "D:\\UnityStuff\\ProtectLab\\MainProject\\HospitalSystem\\Assets\\Prefabs\\Procedures\\Scripts\\ThreadRenderer.cs",
+              "RelativeToolTip": "Assets\\Prefabs\\Procedures\\Scripts\\ThreadRenderer.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAkwAgBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T18:42:51.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StitchNotificationUI.cs",
+              "DocumentMoniker": "D:\\UnityStuff\\ProtectLab\\MainProject\\HospitalSystem\\Assets\\Prefabs\\Procedures\\Scripts\\StitchNotificationUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Prefabs\\Procedures\\Scripts\\StitchNotificationUI.cs",
+              "ToolTip": "D:\\UnityStuff\\ProtectLab\\MainProject\\HospitalSystem\\Assets\\Prefabs\\Procedures\\Scripts\\StitchNotificationUI.cs",
+              "RelativeToolTip": "Assets\\Prefabs\\Procedures\\Scripts\\StitchNotificationUI.cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAkwCsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T18:42:46.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StitchingSceneSetup.cs",
+              "DocumentMoniker": "D:\\UnityStuff\\ProtectLab\\MainProject\\HospitalSystem\\Assets\\Prefabs\\Procedures\\Scripts\\StitchingSceneSetup.cs",
+              "RelativeDocumentMoniker": "Assets\\Prefabs\\Procedures\\Scripts\\StitchingSceneSetup.cs",
+              "ToolTip": "D:\\UnityStuff\\ProtectLab\\MainProject\\HospitalSystem\\Assets\\Prefabs\\Procedures\\Scripts\\StitchingSceneSetup.cs",
+              "RelativeToolTip": "Assets\\Prefabs\\Procedures\\Scripts\\StitchingSceneSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T18:42:41.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StitchDetector.cs",
+              "DocumentMoniker": "D:\\UnityStuff\\ProtectLab\\MainProject\\HospitalSystem\\Assets\\Prefabs\\Procedures\\Scripts\\StitchDetector.cs",
+              "RelativeDocumentMoniker": "Assets\\Prefabs\\Procedures\\Scripts\\StitchDetector.cs",
+              "ToolTip": "D:\\UnityStuff\\ProtectLab\\MainProject\\HospitalSystem\\Assets\\Prefabs\\Procedures\\Scripts\\StitchDetector.cs",
+              "RelativeToolTip": "Assets\\Prefabs\\Procedures\\Scripts\\StitchDetector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T18:42:34.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StitchManager.cs",
+              "DocumentMoniker": "D:\\UnityStuff\\ProtectLab\\MainProject\\HospitalSystem\\Assets\\Prefabs\\Procedures\\Scripts\\StitchManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Prefabs\\Procedures\\Scripts\\StitchManager.cs",
+              "ToolTip": "D:\\UnityStuff\\ProtectLab\\MainProject\\HospitalSystem\\Assets\\Prefabs\\Procedures\\Scripts\\StitchManager.cs",
+              "RelativeToolTip": "Assets\\Prefabs\\Procedures\\Scripts\\StitchManager.cs",
+              "ViewState": "AgIAAC0BAAAAAAAAAAAgwFMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T18:24:30.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StitchSite.cs",
+              "DocumentMoniker": "D:\\UnityStuff\\ProtectLab\\MainProject\\HospitalSystem\\Assets\\Prefabs\\Procedures\\Scripts\\StitchSite.cs",
+              "RelativeDocumentMoniker": "Assets\\Prefabs\\Procedures\\Scripts\\StitchSite.cs",
+              "ToolTip": "D:\\UnityStuff\\ProtectLab\\MainProject\\HospitalSystem\\Assets\\Prefabs\\Procedures\\Scripts\\StitchSite.cs",
+              "RelativeToolTip": "Assets\\Prefabs\\Procedures\\Scripts\\StitchSite.cs",
+              "ViewState": "AgIAAEgCAAAAAAAAAAAwwG8CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T18:22:12.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StitchVideoManager.cs",
+              "DocumentMoniker": "D:\\UnityStuff\\ProtectLab\\MainProject\\HospitalSystem\\Assets\\Prefabs\\Procedures\\Scripts\\StitchVideoManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Prefabs\\Procedures\\Scripts\\StitchVideoManager.cs",
+              "ToolTip": "D:\\UnityStuff\\ProtectLab\\MainProject\\HospitalSystem\\Assets\\Prefabs\\Procedures\\Scripts\\StitchVideoManager.cs",
+              "RelativeToolTip": "Assets\\Prefabs\\Procedures\\Scripts\\StitchVideoManager.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAgwM0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T18:24:14.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
