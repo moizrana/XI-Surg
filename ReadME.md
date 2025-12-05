@@ -1,7 +1,4 @@
 # 🩺 XI-Surg - VR Medical Training System
-
-**Meta Horizon Developer Competition Submission**
-
 XI-Surg is an immersive VR medical training platform designed for Meta Quest devices. It provides medical students and professionals with realistic, hands-on training experiences for various surgical procedures in a safe, controlled virtual environment.
 
 [![Unity Version](https://img.shields.io/badge/Unity-6000.2.4f1-blue.svg)](https://unity.com/)
@@ -125,4 +122,3 @@ cd XI-Surg
 - **UI Interaction**: Point and select using hand tracking or controllers
 - **Menu Access**: Use the selection scene to switch between procedures
 
-## 📁 Project Structure
